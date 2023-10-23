@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\bin\Debug\for-3.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\bin\Debug\for-3.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\bin\Debug\for-3.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\obj\Debug\for-3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\obj\Debug\for-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\obj\Debug\for_3.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\obj\Debug\for_3.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\obj\Debug\for-3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\obj\Debug\for-3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\obj\Debug\for-3.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3\for-3\obj\Debug\for-3.pdb
